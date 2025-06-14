@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 489b5bb51b9eb7046baa7cace549423f, type: 3}
+  m_Name: EnergyBarPromt
+  m_EditorClassIdentifier: 
+  npcName: EnergyBar
+  dialogueUnits:
+  - StateIndex: 0
+    sentences:
+    - "\u653B\u64CA\u7BC4\u570D\u5167\u6C92\u6709\u76EE\u6A19"
+  - StateIndex: 1
+    sentences:
+    - "\u73FE\u5728\u6A39\u7CBE\u5DF2\u7D93\u9032\u5165\u4F60\u7684\u653B\u64CA\u7BC4\u570D\uFF0C\u53EF\u4EE5\u767C\u52D5\u653B\u64CA"
+  - StateIndex: 2
+    sentences:
+    - "\u8ACB\u5C07\u5DE6\u624B\u904A\u6232\u624B\u628A \u653E\u5230\u8179\u90E8\u4F4D\u7F6E\u5B9A\u4F4D"
+  - StateIndex: 3
+    sentences:
+    - "\u4E26\u6309\u624B\u628AX\u93755\u79D2"
+  - StateIndex: 4
+    sentences:
+    - "\u6309\u4F4FX\u9375"
+  - StateIndex: 5
+    sentences:
+    - "\u5B9A\u4F4D\u5B8C\u6210"
+  - StateIndex: 6
+    sentences:
+    - "\u63A5\u4E0B\u4F86\u8ACB\u8A66\u8457\u5438\u6C23 \u5C07\u756B\u9762\u4E0A\u65B9\u7684\u80FD\u91CF\u689D\u5438\u6EFF\uFF01"
+  - StateIndex: 7
+    sentences:
+    - "\u63A5\u4E0B\u4F86\u8ACB\u8A66\u8457\u77ED\u5410\u6C23\u56DB\u6B21\uFF0C\u628A\u80FD\u91CF\u5410\u5B8C\uFF01"
+  - StateIndex: 8
+    sentences:
+    - "\u592A\u597D\u4E86\uFF01\u606D\u559C\u4F60\u5B78\u6703\u57FA\u790E\u7684\u706B\u547C\u5438\u9B54\u6CD5"
+  - StateIndex: 9
+    sentences:
+    - "\u63A5\u4E0B\u4F86\u9019\u500B\u5834\u5730\u6703\u6709\u66F4\u591A\u5C0F\u6A39\u7CBE\u51FA\u73FE\uFF0C\u5C31\u597D\u597D\u7DF4\u7FD2\u5427\uFF01"
+  - StateIndex: 10
+    sentences:
+    - Can Attack !
+  - StateIndex: 11
+    sentences:
+    - No Target
+  - StateIndex: 12
+    sentences:
+    - 

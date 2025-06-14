@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: f9cd533b481a21d46906a559d701a9a9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - FireBallPrefab: {instanceID: 0}
+  - IconCoolDown: {instanceID: 0}
+  - energySlider: {instanceID: 0}
+  - breathDectector: {instanceID: 0}
+  - bellyPosition: {instanceID: 0}
+  - musicfight: {fileID: 8300000, guid: a3cff544e4f8afd43917f1bfe33bd5d3, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
